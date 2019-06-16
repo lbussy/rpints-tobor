@@ -550,9 +550,9 @@ Raspberry Pints has now been installed to $WWWPATH.
 
 You may have changed the server name, you will have also been added to the
 www-data group so that you will be able to browse the local files in the
-$WWWPATH directory.  There's also a very good chance that a large number of
-packages have been updated.  In order to allow thse changes to be effective,
-please reboot your Pi to ensure a clean start.
+$WWWPATH directory.  There's also a very good chance that a large number
+of packages have been updated.  In order to allow thse changes to be
+effective, please reboot your Pi to ensure a clean start.
 
 It may take several minutes for this reboot.  Be patient.
 
