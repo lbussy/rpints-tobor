@@ -1,5 +1,5 @@
 ![](icon.png)
-# Raspberry Pints Tools
+# Raspberry Pints Tobor
 
 This repository contains an install script for a very specific version of Raspberry Pints.  This version was shared by [Homebrewtalk](https://www.homebrewtalk.com) user [Tobor_8thMan](https://www.homebrewtalk.com/forum/members/tobor_8thman.148827/) in [this post](https://www.homebrewtalk.com/forum/threads/version-2-release-raspberrypints-digital-taplist-solution.487694/page-116#post-8609646).
 
